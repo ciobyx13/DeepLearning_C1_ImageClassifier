@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./W2A2"
+    ]
+}
